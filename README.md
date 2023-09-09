@@ -12,6 +12,7 @@ In this repository, you'll discover projects that cover a wide range of topics i
 
 - Feature Engineering and Visualisation on the Delhi Climate dataset
 - Time Series Forecasting using Moving Average and Linear Regression on the Delhi Climate dataset
+- Time Series Predicting using ARIMA on Air Passenger dataset
 
 Each project comes with detailed explanations, code examples, and visualizations to help you grasp the concepts and techniques applied.
 
